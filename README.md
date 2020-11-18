@@ -29,5 +29,5 @@ Example usage
 
 ```cmd
 PwnyForm -m Setup.msi -t Pwnd.mst
-msiexec -i Setup.msi CMD=cmd.exe TRANSFORM=Pwnd.mst
+msiexec -i Setup.msi CMD=cmd.exe TRANSFORMS=Pwnd.mst
 ```
